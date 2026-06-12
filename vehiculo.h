@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 
-// Encapsulación de la clase abstracta vehículo
 class vehiculo {
 protected:
     string idVehiculo;
@@ -13,7 +12,6 @@ protected:
     bool estaRentado;
 
 public:
-    // Constructores y destructor
     vehiculo();
     vehiculo(string _idVehiculo, string _marca, string _modelo, double _costoDia, bool _estaRentado);
     virtual ~vehiculo() {}
