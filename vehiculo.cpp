@@ -2,8 +2,6 @@
 #include <iostream>
 using namespace std;
 
-
-//Constructor por defecto
 vehiculo::vehiculo() {
     idVehiculo = "SIN_ID";
     marca = "Sin marca";
@@ -12,7 +10,6 @@ vehiculo::vehiculo() {
     estaRentado = false;
 }
 
-//Constructor
 vehiculo::vehiculo(string _idVehiculo, string _marca, string _modelo, double _costoDia, bool _estaRentado) {
     idVehiculo = _idVehiculo;
     marca = _marca;
