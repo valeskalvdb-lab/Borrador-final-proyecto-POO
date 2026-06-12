@@ -63,7 +63,7 @@ int main() {
             cout << "\n--- CATALOGO DE DISPONIBLES ---" << endl;
             renTECarros.vehiculosDisponibles();
         }
-        else if (opcion == 2) { // <- CORREGIDO: Tenías 'opcion == 1' repetido aquí
+        else if (opcion == 2) {
             cout << "\n--- RENTAR VEHICULO ---" << endl;
             cout << "Ingresa el ID del vehiculo que deseas rentar: ";
             cin >> idElegido;
