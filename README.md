@@ -25,6 +25,11 @@ Durante la etapa del segundo avance, no realicé realmente un progreso real con 
 Para el avance 3 decidí cambiar de proyecto, esta vez enfocándome en algo con mayor relación en los temas vistos en clase. Hice el prototipo del proyecto con el diagrama UML.
 ## Avance 4:
 Para el último avance, creé las clases establecidas en el diagrama UML, implementando herencia, polimorfismo, modificadores de acceso, clases abstractas y sobrecarga y sobreescritura de métodos. 
+
+## Versiones pasadas
+Las versiones antiguas de este proyecto fueron subidas en otro repositorio: 
+https://github.com/valeskalvdb-lab/Proyecto-integrador-POO.git 
+
 # Instrucciones para ejecutar el programa: 
 1. Descarga los archivos.
 2. Guárdalos en la misma carpeta.
