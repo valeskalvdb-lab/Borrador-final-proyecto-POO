@@ -9,7 +9,7 @@ autoSUV::autoSUV(string _idVehiculo, string _marca, string _modelo, double _cost
 }
 
 autoSUV::autoSUV() 
-    : vehiculo() // Primero llama al constructor por defecto del padre
+    : vehiculo() 
 {
     tiene4x4 = false;
     filaExtra = false;
