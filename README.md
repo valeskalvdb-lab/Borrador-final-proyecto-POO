@@ -30,5 +30,6 @@ Para el último avance, creé las clases establecidas en el diagrama UML, implem
 2. Guárdalos en la misma carpeta.
 3. Abre la terminal en el directorio de la carpeta. 
 4. En la terminal, escribe:
+
 g++ *.cpp -o main.exe
 ./main.exe 
