@@ -1,4 +1,4 @@
-## Renta-de-Autos-Proyecto-Integrador-TC1030.301
+# Renta-de-Autos-Proyecto-Integrador-TC1030.301
 Sistema de gestión de renta de autos
 
 Es esencial que una agencia de renta de autos tenga una organización clara para hacer que su sistema sea claro, eficiente y ordenado. Este proyecto consiste en el desarrollo de un sistema automatizado para la gestión de una agencia de renta de vehículos por parte de los trabajadores. Permite administrar flotas independientes para cada tipo de auto a disponibilidad y permite calcular el pago a realizar según el tipo de vehículo rentado, así como gestionar qué autos se encuentran disponibles para ser rentados. 
@@ -23,6 +23,6 @@ Como lo mencioné antes, la idea inicial era hacer un sistema de predicción de 
 Durante la etapa del segundo avance, no realicé realmente un progreso real con respecto a la creación de mis clases en C++, esta semana me enfoqué sobre todo en obtener los datos de los archivos CSV que iba a necesitar para que el programa haga su trabajo usando la extensión Fast1 en Python. Mi error principal fue no darme cuenta de la cantidad de tiempo que le estaba invirtiendo a un proyecto que no se enfocaba realmente en entender el funcionamiento de POO.
 ## Avance 3:
 Para el avance 3 decidí cambiar de proyecto, esta vez enfocándome en algo con mayor relación en los temas vistos en clase. Hice el prototipo del proyecto con el diagrama UML.
-# Avance 4:
+## Avance 4:
 Para el último avance, creé las clases establecidas en el diagrama UML, implementando herencia, polimorfismo, modificadores de acceso, clases abstractas y sobrecarga y sobreescritura de métodos. 
-## Diagrama UML: 
+# Diagrama UML: 
