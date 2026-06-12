@@ -11,7 +11,7 @@ class autoSUV: public vehiculo{
     bool filaExtra;
     public: 
     autoSUV();
-    autoSUV(string _idVehiculo, string _marca, string _modelo, double _costoDia, bool _estaRentado, bool _tiene4x4, bool _filaExtra); //aquí me estoy olvidando de poner el tipo de dato
+    autoSUV(string _idVehiculo, string _marca, string _modelo, double _costoDia, bool _estaRentado, bool _tiene4x4, bool _filaExtra);
     double calcularPrecioRenta(int dias, double km, int edadConductor) override;
     void imprimirResumen() override;
 };
