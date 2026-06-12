@@ -8,7 +8,7 @@ autoDeportivo::autoDeportivo(string _idVehiculo, string _marca, string _modelo, 
 }
 
 autoDeportivo::autoDeportivo() 
-    : vehiculo() // Primero llama al constructor por defecto del padre
+    : vehiculo() 
 {
     seguroCosto = 0.0;
 }
