@@ -16,7 +16,7 @@ autoSUV::autoSUV()
 }
 
 double autoSUV::calcularPrecioRenta(int dias, double kmRecorridos, int edadConductor) {
-    double precioRenta = dias * costoDia; // Funciona porque costoDia ahora es protected
+    double precioRenta = dias * costoDia;
     if (tiene4x4) { precioRenta += 1200.0; }
     if (filaExtra) { precioRenta += 600.0; }
     return precioRenta;
