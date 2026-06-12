@@ -1,3 +1,10 @@
+/**
+ * Esta clase define un objeto de tipo autoCompacto que hereda directamente 
+ * de la clase vehiculo. Representa a los autos ideales para la ciudad y 
+ * añade un atributo para controlar el límite de kilometraje permitido; 
+ * implementa las operaciones para calcular los kilómetros excedidos y aplicar 
+ * los cargos adicionales correspondientes al precio final de la renta.
+ */
 #ifndef AGENCIARENTA_H
 #define AGENCIARENTA_H
 
